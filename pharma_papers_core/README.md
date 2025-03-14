@@ -20,7 +20,7 @@ pip install -i https://test.pypi.org/simple/ pharma-papers-core
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/pharma-papers.git
+git clone https://github.com/pramod24cr/pharma-papers.git
 cd pharma-papers/pharma_papers_core
 poetry install
 ```
