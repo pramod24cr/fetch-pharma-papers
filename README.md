@@ -75,15 +75,15 @@ pip install -i https://test.pypi.org/simple/ pharma-papers-cli
 
 ```bash
 # Clone the repository
-git clone https://github.com/pramod24cr/pharma-papers.git
-cd pharma-papers
+git clone https://github.com/pramod24cr/fetch-pharma-papers.git
+cd fetch-pharma-papers
 
 # Install the core library
 cd pharma_papers_core
 poetry install
 
 # Install the CLI tool
-cd ../pharma_papers_cli
+cd ../pharma-papers-cli
 poetry install
 ```
 

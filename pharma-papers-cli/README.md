@@ -18,8 +18,8 @@ A command-line interface for fetching research papers from PubMed and identifyin
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/pharma-papers.git
-cd pharma-papers/pharma_papers_cli
+git clone https://github.com/pramod24cr/fetch-pharma-papers.git
+cd fetch-pharma-papers/pharma-papers-cli
 poetry install
 ```
 

@@ -5,9 +5,9 @@ import sys
 from typing import Optional
 
 import typer
-from pharma_papers_core.pharma_papers.api import PubMedAPI
-from pharma_papers_core.pharma_papers.processor import PaperProcessor
-from pharma_papers_core.pharma_papers.utils import export_to_csv
+from pharma_papers.api import PubMedAPI
+from pharma_papers.processor import PaperProcessor
+from pharma_papers.utils import export_to_csv
 
 app = typer.Typer(help="Fetch research papers with authors from pharmaceutical companies")
 
